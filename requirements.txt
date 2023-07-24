@@ -14,5 +14,5 @@ scikit-image==0.17.2
 scipy==1.5.2
 six==1.15.0
 tifffile==2020.7.24
-torch==1.4.0
+torch==1.13.1
 tqdm==4.48.1
